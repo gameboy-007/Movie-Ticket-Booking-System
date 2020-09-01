@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const Sequelize = require('sequelize')
  const db = new Sequelize('ticketing', 'gaurav_ticketing', 'Ticketing 1', {
     host: 'localhost',
@@ -65,7 +64,7 @@ db.sync().then(() => console.log("Database has been synced! "))
 exports = module.exports = {
     Seat, Movie
 };
-=======
+
 const Sequelize = require('sequelize')
  const db = new Sequelize('ticketing', 'gaurav_ticketing', 'Ticketing 1', {
     host: 'localhost',
@@ -132,4 +131,4 @@ db.sync().then(() => console.log("Database has been synced! "))
 exports = module.exports = {
     Seat, Movie
 };
->>>>>>> 76e980199150cba07b63e6a9f4bdda3b0b380c10
+

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "name": "book_backend",
   "version": "1.0.0",
@@ -21,7 +20,7 @@
     "sequelize": "^4.38.0"
   }
 }
-=======
+
 {
   "name": "book_backend",
   "version": "1.0.0",
@@ -44,4 +43,3 @@
     "sequelize": "^4.38.0"
   }
 }
->>>>>>> 76e980199150cba07b63e6a9f4bdda3b0b380c10
