@@ -1,5 +1,5 @@
 ## Movie-Ticket-Booking-System
-This project is made for Zomentum hiring drive. 
+This project provides a backend for a movie ticket booking application.
 
 ### About the project
 This project contains the API of the Movie Ticket Booking System.
