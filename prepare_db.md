@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Preparing the Database on local machine
 
 Do the following as root
@@ -9,3 +10,16 @@ Do the following as root
  grant all privileges on ticketing to gaurav_ticketing;
  grant all privileges on ticketing.* to gaurav_ticketing;
 ```
+=======
+# Preparing the Database on local machine
+
+Do the following as root
+
+```sql
+ create database ticketing;
+ create user gaurav_ticketing identified by 'Ticketing 1';
+ use ticketing;
+ grant all privileges on ticketing to gaurav_ticketing;
+ grant all privileges on ticketing.* to gaurav_ticketing;
+```
+>>>>>>> 76e980199150cba07b63e6a9f4bdda3b0b380c10
