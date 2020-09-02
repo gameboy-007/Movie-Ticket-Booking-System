@@ -1,4 +1,4 @@
-## Movie-Ticket-Booking-System
+## Movie-Ticket-Booking-API
 This project provides a backend for a movie ticket booking application.
 
 ### About the project
